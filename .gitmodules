@@ -1,0 +1,3 @@
+[submodule "fastapi-app"]
+	path = fastapi-app
+	url = https://github.com/Eunini/fastapi-task-project.git
